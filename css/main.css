@@ -1,0 +1,60 @@
+.parent-container {
+}
+
+.containers {
+    width: 251px;
+    height: 110px;
+    padding: 10px;
+    text-align: center;
+}
+
+#div-1 {
+    background: darkseagreen;
+    width: 96.3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#div-2 {
+    background: darkkhaki;
+    float: right;
+    font-family: 'Beth Ellen', cursive;
+}
+
+#div-3 {
+    background: magenta;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}
+
+#div-4 {
+    background: cyan;
+    float: right;
+    font-family: 'Lobster', cursive;
+}
+
+#div-5 {
+    background: gold;
+    font-family: 'Pacifico', cursive;
+}
+
+#div-6 {
+    background: burlywood;
+    float: right;
+    font-family: 'Dancing Script', cursive;
+}
+
+#div-7 {
+    background: coral;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#div-8 {
+    background: lawngreen;
+    float : right;
+    font-family: 'Lacquer', sans-serif;
+}
+
+#div-9 {
+    background: palegoldenrod;
+    font-family: 'Blinker', sans-serif;
+}
