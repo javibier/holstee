@@ -10,51 +10,67 @@
 
 #div-1 {
     background: darkseagreen;
-    width: 96.3%;
+    width: 99.3%;
     font-family: 'Montserrat', sans-serif;
 }
 
 #div-2 {
     background: darkkhaki;
+    width: 50%;
+    height: 200px;
     float: right;
     font-family: 'Beth Ellen', cursive;
 }
 
 #div-3 {
     background: magenta;
+    width: 50%;
+    height: 200px;
     color: white;
     font-family: 'Indie Flower', cursive;
 }
 
 #div-4 {
     background: cyan;
+    width: 50%;
+    height: 200px;
     float: right;
     font-family: 'Lobster', cursive;
 }
 
 #div-5 {
     background: gold;
+    width: 50%;
+    height: 200px;
     font-family: 'Pacifico', cursive;
 }
 
 #div-6 {
     background: burlywood;
     float: right;
+    width: 50%;
+    height: 200px;
     font-family: 'Dancing Script', cursive;
 }
 
 #div-7 {
     background: coral;
+    width: 50%;
+    height: 200px;
     font-family: 'Shadows Into Light', cursive;
 }
 
 #div-8 {
     background: lawngreen;
     float : right;
+    width: 50%;
+    height: 200px;
     font-family: 'Lacquer', sans-serif;
 }
 
 #div-9 {
     background: palegoldenrod;
+    width: 50%;
+    height: 200px;
     font-family: 'Blinker', sans-serif;
 }
