@@ -56,3 +56,13 @@
     background: palegoldenrod;
     font-family: 'Blinker', sans-serif;
 }
+
+footer h5 {
+    color: #fa0075;
+    text-align: center;
+}
+
+footer span {
+    color: #fa0075;
+    text-decoration: none;
+}
