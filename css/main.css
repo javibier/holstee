@@ -1,11 +1,9 @@
 .parent-container {
-    width: 100%;
 }
 
 .containers {
     font-size: 36px;
-    width: 50%;
-    height: 200px;
+    height: 180px;
     padding: 10px;
     text-align: center;
 }
@@ -13,7 +11,6 @@
 #div-1 {
     font-size: 46px;
     background: darkseagreen;
-    width: 100%;
     font-family: 'Montserrat', sans-serif;
 }
 
