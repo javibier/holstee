@@ -1,4 +1,5 @@
-.parent-container {
+body {
+    background-color: black;
 }
 
 .containers {
@@ -10,46 +11,54 @@
     font-size: 46px;
     background: darkseagreen;
     font-family: 'Montserrat', sans-serif;
+    overflow: hidden;
 }
 
 #div-2 {
     background: darkkhaki;
     float: right;
     font-family: 'Beth Ellen', cursive;
+    overflow: hidden;
 }
 
 #div-3 {
     background: magenta;
     color: white;
     font-family: 'Indie Flower', cursive;
+    overflow: hidden;
 }
 
 #div-4 {
     background: cyan;
     float: right;
     font-family: 'Lobster', cursive;
+    overflow: hidden;
 }
 
 #div-5 {
     background: gold;
     font-family: 'Pacifico', cursive;
+    overflow: hidden;
 }
 
 #div-6 {
     background: burlywood;
     float: right;
     font-family: 'Dancing Script', cursive;
+    overflow: hidden;
 }
 
 #div-7 {
     background: coral;
     font-family: 'Shadows Into Light', cursive;
+    overflow: hidden;
 }
 
 #div-8 {
     background: lawngreen;
     float : right;
     font-family: 'Lacquer', sans-serif;
+    overflow: hidden;
 }
 
 #div-9 {
