@@ -65,12 +65,12 @@ body {
 #div-9 {
     background: palegoldenrod;
     font-family: 'Blinker', sans-serif;
+    height: 170px;
 }
 
 footer {
     color: #fa0075;
     text-align: center;
-    
 }
 
 footer a {
