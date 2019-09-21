@@ -19,6 +19,7 @@ body {
     float: right;
     font-family: 'Beth Ellen', cursive;
     overflow: hidden;
+    height: 178px;
 }
 
 #div-3 {
@@ -32,6 +33,7 @@ body {
     background: cyan;
     float: right;
     font-family: 'Lobster', cursive;
+    height: 198px;
 }
 
 #div-5 {
@@ -44,7 +46,7 @@ body {
     background: burlywood;
     float: right;
     font-family: 'Dancing Script', cursive;
-
+    height: 129px;
 } 
 
 #div-7 {
