@@ -67,12 +67,12 @@ body {
     font-family: 'Blinker', sans-serif;
 }
 
-footer h5 {
+footer {
     color: #fa0075;
     text-align: center;
+    
 }
 
-footer span {
-    color: #fa0075;
+footer a {
     text-decoration: none;
 }
