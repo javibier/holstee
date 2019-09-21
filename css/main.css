@@ -32,7 +32,6 @@ body {
     background: cyan;
     float: right;
     font-family: 'Lobster', cursive;
-    overflow: hidden;
 }
 
 #div-5 {
@@ -45,8 +44,8 @@ body {
     background: burlywood;
     float: right;
     font-family: 'Dancing Script', cursive;
-    overflow: hidden;
-}
+
+} 
 
 #div-7 {
     background: coral;
