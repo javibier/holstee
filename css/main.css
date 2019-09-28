@@ -8,8 +8,8 @@ body {
 }
 
 #div-1 {
-    font-size: 46px;
     background: darkseagreen;
+    font-size: 46px;
     font-family: 'Montserrat', sans-serif;
     overflow: hidden;
 }
