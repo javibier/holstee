@@ -31,9 +31,10 @@ body {
 
 #div-2 {
     background: darkkhaki;
+    font-size: 30px;
     float: right;
     font-family: 'Beth Ellen', cursive;
-    height: 178px;
+    height: auto;
     overflow: hidden;
 }
 
