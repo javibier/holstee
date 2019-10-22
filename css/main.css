@@ -24,14 +24,14 @@ body {
 
 #div-1 {
     background: darkseagreen;
-    font-size: 3vw;
+    font-size: 36px;
     font-family: 'Montserrat', sans-serif;
     overflow: hidden;
 }
 
 #div-2 {
     background: darkkhaki;
-    font-size: 1.6vw;
+    font-size: 36px;
     float: right;
     font-family: 'Beth Ellen', cursive;
     height: auto;
