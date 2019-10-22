@@ -27,6 +27,7 @@ body {
     font-size: 36px;
     font-family: 'Montserrat', sans-serif;
     overflow: hidden;
+    text-align: center;
 }
 
 #div-2 {
@@ -35,6 +36,7 @@ body {
     float: right;
     font-family: 'Beth Ellen', cursive;
     overflow: hidden;
+    text-align: center;
 }
 
 #div-3 {
@@ -42,6 +44,7 @@ body {
     color: white;
     font-size: 36px;
     font-family: 'Indie Flower', cursive;
+    text-align: center;
 }
 
 #div-4 {
@@ -49,6 +52,7 @@ body {
     float: right;
     font-family: 'Lobster', cursive;
     font-size: 36px;
+    text-align: center;
 }
 
 #div-5 {
@@ -56,6 +60,7 @@ body {
     font-family: 'Pacifico', cursive;
     overflow: hidden;
     font-size: 36px;
+    text-align: center;
 }
 
 #div-6 {
@@ -63,6 +68,7 @@ body {
     float: right;
     font-family: 'Dancing Script', cursive;
     font-size: 36px;
+    text-align: center;
 } 
 
 #div-7 {
@@ -70,6 +76,7 @@ body {
     font-family: 'Shadows Into Light', cursive;
     overflow: hidden;
     font-size: 36px;
+    text-align: center;
 }
 
 #div-8 {
@@ -78,12 +85,14 @@ body {
     font-family: 'Lacquer', sans-serif;
     overflow: hidden;
     font-size: 36px;
+    text-align: center;
 }
 
 #div-9 {
     background: palegoldenrod;
     font-family: 'Blinker', sans-serif;
     font-size: 36px;
+    text-align: center;
 }
 
 footer {
