@@ -52,6 +52,7 @@ body {
     float: right;
     font-family: 'Lobster', cursive;
     height: 198px;
+    height: auto;
 }
 
 #div-5 {
