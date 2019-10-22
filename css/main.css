@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: white;
 }
 
 .containers {
@@ -96,7 +96,7 @@ body {
 }
 
 footer {
-    color: #fa0075;
+    color: white;
     text-align: center;
 }
 
