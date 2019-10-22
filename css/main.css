@@ -34,7 +34,6 @@ body {
     font-size: 36px;
     float: right;
     font-family: 'Beth Ellen', cursive;
-    height: auto;
     overflow: hidden;
 }
 
@@ -43,15 +42,12 @@ body {
     color: white;
     font-size: 36px;
     font-family: 'Indie Flower', cursive;
-    height: auto;
-    overflow: hidden;
 }
 
 #div-4 {
     background: cyan;
     float: right;
     font-family: 'Lobster', cursive;
-    height: auto;
     font-size: 36px;
 }
 
@@ -59,7 +55,6 @@ body {
     background: gold;
     font-family: 'Pacifico', cursive;
     overflow: hidden;
-    height: auto;
     font-size: 36px;
 }
 
@@ -67,7 +62,6 @@ body {
     background: burlywood;
     float: right;
     font-family: 'Dancing Script', cursive;
-    height: auto;
     font-size: 36px;
 } 
 
@@ -75,7 +69,6 @@ body {
     background: coral;
     font-family: 'Shadows Into Light', cursive;
     overflow: hidden;
-    height: auto;
     font-size: 36px;
 }
 
@@ -84,14 +77,12 @@ body {
     float : right;
     font-family: 'Lacquer', sans-serif;
     overflow: hidden;
-    height: auto;
     font-size: 36px;
 }
 
 #div-9 {
     background: palegoldenrod;
     font-family: 'Blinker', sans-serif;
-    height: auto;
     font-size: 36px;
 }
 
