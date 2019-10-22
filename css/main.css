@@ -60,6 +60,7 @@ body {
     font-family: 'Pacifico', cursive;
     overflow: hidden;
     height: auto;
+    font-size: 36px;
 }
 
 #div-6 {
@@ -67,6 +68,7 @@ body {
     float: right;
     font-family: 'Dancing Script', cursive;
     height: auto;
+    font-size: 36px;
 } 
 
 #div-7 {
@@ -74,6 +76,7 @@ body {
     font-family: 'Shadows Into Light', cursive;
     overflow: hidden;
     height: auto;
+    font-size: 36px;
 }
 
 #div-8 {
@@ -82,12 +85,14 @@ body {
     font-family: 'Lacquer', sans-serif;
     overflow: hidden;
     height: auto;
+    font-size: 36px;
 }
 
 #div-9 {
     background: palegoldenrod;
     font-family: 'Blinker', sans-serif;
     height: auto;
+    font-size: 36px;
 }
 
 footer {
