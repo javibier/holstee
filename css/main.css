@@ -18,20 +18,20 @@ body {
 }
 
 .containers {
-    font-size: 36px;
+    font-size: 4vw;
     text-align: center;
 }
 
 #div-1 {
     background: darkseagreen;
-    font-size: 46px;
+    font-size: 3vw;
     font-family: 'Montserrat', sans-serif;
     overflow: hidden;
 }
 
 #div-2 {
     background: darkkhaki;
-    font-size: auto;
+    font-size: 1.6vw;
     float: right;
     font-family: 'Beth Ellen', cursive;
     height: auto;
