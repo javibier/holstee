@@ -59,19 +59,21 @@ body {
     background: gold;
     font-family: 'Pacifico', cursive;
     overflow: hidden;
+    height: auto;
 }
 
 #div-6 {
     background: burlywood;
     float: right;
     font-family: 'Dancing Script', cursive;
-    height: 129px;
+    height: auto;
 } 
 
 #div-7 {
     background: coral;
     font-family: 'Shadows Into Light', cursive;
     overflow: hidden;
+    height: auto;
 }
 
 #div-8 {
@@ -79,12 +81,13 @@ body {
     float : right;
     font-family: 'Lacquer', sans-serif;
     overflow: hidden;
+    height: auto;
 }
 
 #div-9 {
     background: palegoldenrod;
     font-family: 'Blinker', sans-serif;
-    height: 170px;
+    height: auto;
 }
 
 footer {
